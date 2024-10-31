@@ -10,37 +10,37 @@ export interface CubeData {
 export const cubes: CubeData[] = [
   {
     name: "Cube 1",
-    color: "red",
+    color: "#f6c8c8",
     size: 1,
     value: Math.floor(Math.random() * 100) + 1,
   },
   {
     name: "Cube 2",
-    color: "green",
+    color: "#ccebee",
     size: 1.5,
     value: Math.floor(Math.random() * 100) + 1,
   },
   {
     name: "Cube 3",
-    color: "blue",
+    color: "#d0c2ed",
     size: 1.2,
     value: Math.floor(Math.random() * 100) + 1,
   },
   {
     name: "Cube 4",
-    color: "yellow",
+    color: "#c2edce",
     size: 0.8,
     value: Math.floor(Math.random() * 100) + 1,
   },
   {
     name: "Cube 5",
-    color: "purple",
+    color: "#c1c1c1",
     size: 1.4,
     value: Math.floor(Math.random() * 100) + 1,
   },
   {
     name: "Cube 6",
-    color: "orange",
+    color: "#d7d9f3",
     size: 1.1,
     value: Math.floor(Math.random() * 100) + 1,
   },
